@@ -1,1 +1,1 @@
-# Predicting-Credit-Card-Defaulters-Python
+# Predicting Credit Card Defaulters
